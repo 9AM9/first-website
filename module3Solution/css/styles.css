@@ -1,0 +1,23 @@
+body {
+    background-color: brown;
+}
+.nav-logo {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+#page-heading {
+    color: white;
+}
+.items {
+    background-color: yellow;
+    height: 1000px;
+}
+#nav-list {
+    list-style-type: none;
+}
+#nav-list a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
